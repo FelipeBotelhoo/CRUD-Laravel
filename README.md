@@ -1,7 +1,7 @@
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-# Projeto CRUD em Laravel
+# 🚀 Projeto CRUD em Laravel 
 
 Este é um projeto simples de CRUD (Create, Read, Update, Delete) desenvolvido em Laravel. O objetivo deste projeto é demonstrar como criar um aplicativo web básico utilizando o framework Laravel, que permite criar, visualizar, atualizar e excluir registros de um banco de dados.
 
@@ -9,14 +9,14 @@ Este é um projeto simples de CRUD (Create, Read, Update, Delete) desenvolvido e
 
 CRUD é um acrônimo que representa as quatro operações básicas de manipulação de dados: Create (Criar), Read (Ler), Update (Atualizar) e Delete (Excluir). Um sistema CRUD permite que os usuários criem novos registros, leiam informações existentes, atualizem dados existentes e excluam registros que não são mais necessários.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 🔨
 
 - Laravel: Um framework de desenvolvimento PHP para a construção de aplicativos web robustos e escaláveis.
 - PHP: Uma linguagem de programação amplamente utilizada em desenvolvimento web.
 - MySQL: Um sistema de gerenciamento de banco de dados relacional utilizado para armazenar e gerenciar os dados do aplicativo.
 - Bootstrap: Um framework de front-end para o desenvolvimento de interfaces web responsivas e estilizadas.
 
-## Como Funciona
+## 📝 Como Funciona
 
 1. **Instalação**:
    - Clone este repositório em sua máquina local.
@@ -32,9 +32,9 @@ CRUD é um acrônimo que representa as quatro operações básicas de manipulaç
    - Você verá as opções para criar, visualizar, atualizar e excluir registros.
    - Explore as diferentes funcionalidades do aplicativo CRUD.
 
-## Contribuição
+## Contribuição 🤝
 
-Contribuições são bem-vindas! <br>
+Contribuições são bem-vindas!  <br>
 Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs ou novos recursos.
 
 ## Autor
