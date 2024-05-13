@@ -8,63 +8,45 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+# Projeto CRUD em Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Este é um projeto simples de CRUD (Create, Read, Update, Delete) desenvolvido em Laravel. O objetivo deste projeto é demonstrar como criar um aplicativo web básico utilizando o framework Laravel, que permite criar, visualizar, atualizar e excluir registros de um banco de dados.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## O que é um CRUD?
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+CRUD é um acrônimo que representa as quatro operações básicas de manipulação de dados: Create (Criar), Read (Ler), Update (Atualizar) e Delete (Excluir). Um sistema CRUD permite que os usuários criem novos registros, leiam informações existentes, atualizem dados existentes e excluam registros que não são mais necessários.
 
-## Learning Laravel
+## Tecnologias Utilizadas
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- Laravel: Um framework de desenvolvimento PHP para a construção de aplicativos web robustos e escaláveis.
+- PHP: Uma linguagem de programação amplamente utilizada em desenvolvimento web.
+- MySQL: Um sistema de gerenciamento de banco de dados relacional utilizado para armazenar e gerenciar os dados do aplicativo.
+- Bootstrap: Um framework de front-end para o desenvolvimento de interfaces web responsivas e estilizadas.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## Como Funciona
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+1. **Instalação**:
+   - Clone este repositório em sua máquina local.
+   - Navegue até o diretório do projeto e execute `composer install` para instalar as dependências do Laravel.
+   - Crie um arquivo `.env` na raiz do projeto, copiando o conteúdo do arquivo `.env.example`.
+   - Configure as variáveis de ambiente no arquivo `.env`, incluindo a conexão com o banco de dados.
+   - Execute `php artisan key:generate` para gerar a chave de aplicativo.
+   - Execute `php artisan migrate` para executar as migrações e criar as tabelas no banco de dados.
+   - Execute `php artisan serve` para iniciar o servidor de desenvolvimento.
 
-## Laravel Sponsors
+2. **Uso**:
+   - Após iniciar o servidor, abra o aplicativo em seu navegador.
+   - Você verá as opções para criar, visualizar, atualizar e excluir registros.
+   - Explore as diferentes funcionalidades do aplicativo CRUD.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+## Contribuição
 
-### Premium Partners
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs ou novos recursos.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+## Autor
 
-## Contributing
+[Seu Nome](link_para_seu_perfil_no_GitHub)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## Licença
 
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-=======
-# CRUD-Laravel
->>>>>>> 8f1e38027fcaa3c24a663532e4ca291c444b2093
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
