@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 # Projeto CRUD em Laravel
 
@@ -41,12 +34,9 @@ CRUD é um acrônimo que representa as quatro operações básicas de manipulaç
 
 ## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs ou novos recursos.
+Contribuições são bem-vindas! <br>
+Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs ou novos recursos.
 
 ## Autor
-
-[Seu Nome](link_para_seu_perfil_no_GitHub)
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
+| [<img src="https://avatars.githubusercontent.com/u/121906659?v=4" width=115><br><sub>Felipe Botelho</sub>](https://www.linkedin.com/in/felipe-botelho-167554255/) | 
+| :---: | 
